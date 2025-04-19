@@ -3,6 +3,12 @@ This is a chat application which is based on Socket IO module and completely bui
 
 After forking this folder,
 
+Run
+```
+npm install
+```
+for installing all the required depedencies
+
 Open console or terminal window to this folder's path and then type
 ```
 npm start
